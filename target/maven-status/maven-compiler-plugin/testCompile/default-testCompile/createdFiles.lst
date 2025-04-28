@@ -1,0 +1,3 @@
+controllers\AirConditionerControllerTest.class
+controllers\FanControllerTest.class
+controllers\LightControllerTest.class
